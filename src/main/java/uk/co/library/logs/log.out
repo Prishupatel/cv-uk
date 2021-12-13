@@ -184,3 +184,73 @@
 2021-12-13 08:12:108 INFO  ManageDriver :32 - Launching chrome browser
 2021-12-13 08:12:356 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (b6d854f20c840d45fc8c09dde15dcf51)] -> id: keywords]
 2021-12-13 08:12:510 INFO  HomePage :63 - sending text to  : West Sussex
+2021-12-13 08:12:991 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:574 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:204 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:37 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:545 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:114 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:129 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> id: keywords]
+2021-12-13 08:12:262 INFO  HomePage :63 - sending text to  : Crawley
+2021-12-13 08:12:441 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> id: distance]
+2021-12-13 08:12:813 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:22 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> id: salarymin]
+2021-12-13 08:12:137 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> id: salarymax]
+2021-12-13 08:12:238 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:355 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:533 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> xpath: //input[@id='hp-search-btn']]
+2021-12-13 08:12:867 INFO  ResultPage :34 - Verifying Search result: [[ChromeDriver: chrome on WINDOWS (b42a8d73bcc9866ebdacfae86b33ce12)] -> xpath: //div[@class='search-header__title']]
+2021-12-13 08:12:819 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:650 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> id: keywords]
+2021-12-13 08:12:808 INFO  HomePage :63 - sending text to  : Leeds
+2021-12-13 08:12:980 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> id: distance]
+2021-12-13 08:12:438 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:640 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> id: salarymin]
+2021-12-13 08:12:740 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> id: salarymax]
+2021-12-13 08:12:849 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:958 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:144 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> xpath: //input[@id='hp-search-btn']]
+2021-12-13 08:12:34 INFO  ResultPage :34 - Verifying Search result: [[ChromeDriver: chrome on WINDOWS (10d632817aaa49c571fd441fd6437cba)] -> xpath: //div[@class='search-header__title']]
+2021-12-13 08:12:960 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:743 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> id: keywords]
+2021-12-13 08:12:941 INFO  HomePage :63 - sending text to  : West Sussex
+2021-12-13 08:12:91 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> id: distance]
+2021-12-13 08:12:452 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:657 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> id: salarymin]
+2021-12-13 08:12:754 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> id: salarymax]
+2021-12-13 08:12:868 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:974 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:174 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> xpath: //input[@id='hp-search-btn']]
+2021-12-13 08:12:876 INFO  ResultPage :34 - Verifying Search result: [[ChromeDriver: chrome on WINDOWS (16ad262a5308a96f51eb0911f9bb1a9d)] -> xpath: //div[@class='search-header__title']]
+2021-12-13 08:12:06 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:152 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> id: keywords]
+2021-12-13 08:12:371 INFO  HomePage :63 - sending text to  : London
+2021-12-13 08:12:535 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> id: distance]
+2021-12-13 08:12:983 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:156 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> id: salarymin]
+2021-12-13 08:12:260 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> id: salarymax]
+2021-12-13 08:12:381 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:499 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:670 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> xpath: //input[@id='hp-search-btn']]
+2021-12-13 08:12:353 INFO  ResultPage :34 - Verifying Search result: [[ChromeDriver: chrome on WINDOWS (f7725f21f5aba4027c3dec58e553c73d)] -> xpath: //div[@class='search-header__title']]
+2021-12-13 08:12:253 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:106 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> id: keywords]
+2021-12-13 08:12:269 INFO  HomePage :63 - sending text to  : London
+2021-12-13 08:12:407 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> id: distance]
+2021-12-13 08:12:829 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:11 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> id: salarymin]
+2021-12-13 08:12:103 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> id: salarymax]
+2021-12-13 08:12:221 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:326 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:493 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> xpath: //input[@id='hp-search-btn']]
+2021-12-13 08:12:753 INFO  ResultPage :34 - Verifying Search result: [[ChromeDriver: chrome on WINDOWS (c3f524266edb662c91e52c35b7f71788)] -> xpath: //div[@class='search-header__title']]
+2021-12-13 08:12:682 INFO  ManageDriver :32 - Launching chrome browser
+2021-12-13 08:12:653 INFO  HomePage :56 - sending text to job title field: [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> id: keywords]
+2021-12-13 08:12:843 INFO  HomePage :63 - sending text to  : West Sussex
+2021-12-13 08:12:975 INFO  HomePage :69 - selecting distance  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> id: distance]
+2021-12-13 08:12:258 INFO  HomePage :75 - clicking on  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> xpath: //div[@class='hp-search-more']]
+2021-12-13 08:12:451 INFO  HomePage :81 - sending text to  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> id: salarymin]
+2021-12-13 08:12:552 INFO  HomePage :87 - sending text to  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> id: salarymax]
+2021-12-13 08:12:629 INFO  HomePage :93 - selecting salary type  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> xpath: //select[@id='salarytype']]
+2021-12-13 08:12:761 INFO  HomePage :99 - selecting job types  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> xpath: //select[@id='tempperm']]
+2021-12-13 08:12:955 INFO  HomePage :105 - clicking on  : [[ChromeDriver: chrome on WINDOWS (0454391cf7c6cd2b73386d02b2046dcb)] -> xpath: //input[@id='hp-search-btn']]

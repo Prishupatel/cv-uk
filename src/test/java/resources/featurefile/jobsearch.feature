@@ -24,5 +24,5 @@ Feature: I can search job in cv library
       | Software Tester   | West Sussex | up to 15 miles | 300   | 500   | Per week   | Temporary | Temporary Software Tester jobs in West Sussex |
       | Automation Tester | London      | up to 35 miles | 300   | 500   | Per day    | Permanent | Permanent Automation Tester jobs in London    |
       | Automation Tester | London      | up to 50 miles | 30    | 50    | Per hour   | Permanent | Permanent Automation Tester jobs in London    |
-      | Software Tester   | West Sussex | up to 50 miles | 45000 | 80000 | Per annum  | Permanent | Permanent Software Tester jobs in Leeds       |
+      | Software Tester   | West Sussex | up to 50 miles | 45000 | 80000 | Per annum  | Permanent | Permanent Software Tester jobs in West Sussex       |
 
